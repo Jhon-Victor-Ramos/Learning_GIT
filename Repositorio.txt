@@ -1,0 +1,2 @@
+O que é um repositório?
+  Repositório é uma "pasta" que consegue fazer o controle de versões de arquivos que lá estão.
