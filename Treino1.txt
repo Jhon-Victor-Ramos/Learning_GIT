@@ -1,0 +1,1 @@
+Esse texto é uma alteração no arquivo "Treino1.txt"
